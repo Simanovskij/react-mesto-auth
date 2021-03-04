@@ -1,0 +1,17 @@
+.header__signout-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  text-decoration: none;
+  transition: opacity linear 0.2s;
+  margin: 0 0 0 24px;
+  cursor: pointer;
+  background-color: unset;
+  border: none;
+}
+
+.header__signout-link:hover {
+  opacity: 0.6;
+}
